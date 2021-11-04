@@ -1,4 +1,4 @@
-# ArtificialImmuneSystem
+# Artificial Immune System in python
 
 ## An artificial immune system demo for network intrusion detection
 
