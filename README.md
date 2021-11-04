@@ -4,7 +4,7 @@
 
 If these code is helpful to you, and you want to use it in your publication, please cite:
 
-Q. Zhou and D. P. Pezaros, "BIDS: Bio-Inspired, Collaborative Intrusion Detection for Software Defined Networks," ICC 2019 - 2019 IEEE International Conference on Communications (ICC), 2019, pp. 1-6, doi: 10.1109/ICC.2019.8761410.
+Q. Zhou and D. P. Pezaros, "BIDS: Bio-Inspired, Collaborative Intrusion Detection for Software Defined Networks," ICC 2019 - 2019 IEEE International Conference on Communications (ICC), 2019, pp. 1-6.
 
 or
 
